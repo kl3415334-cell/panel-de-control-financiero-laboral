@@ -1,0 +1,6 @@
+{
+  "name": "Nómina Somos Uno - Corporación Social",
+  "description": "Plataforma de gestión, administración, liquidación y control de nómina y prestaciones sociales para la Corporación Social Somos Uno en Colombia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

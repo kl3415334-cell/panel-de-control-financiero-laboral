@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Nómina Corporación Social Somos Uno",
+  "short_name": "SomosUno",
+  "description": "Plataforma de gestión, administración, liquidación y control de nómina y prestaciones sociales.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
